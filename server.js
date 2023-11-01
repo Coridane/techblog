@@ -14,7 +14,6 @@ const helpers = require('./utils/helpers')
 // This is declaring the path for the routes
 const routes = require('./controllers')
 
-
 const hbs = exphbs.create({    
     defaultLayout: 'main',
     extname: 'hbs',
